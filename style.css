@@ -14,11 +14,11 @@ body {
 }
 .bigcity {
   width: 100%;
+  
    
 }
 section:nth-of-type(1) {
     display:flex;
-   
     flex-grow: 1;
 }
 section:nth-of-type(2) {
@@ -30,13 +30,14 @@ main {
     max-width: 90%;
     margin: auto; 
    
+   
     
 }
 section {
     display: flex;
     flex-direction: column;
     flex: 1;
-    
+   
 }
 
 
@@ -53,6 +54,7 @@ section div {
 }
 .smallbox {
     background-color: white;
+    
 }
 main section h1 {
     margin-left: 20px;
